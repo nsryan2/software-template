@@ -6,7 +6,7 @@ https://gist.github.com/ju2wheels/3d1a1dfa498977874d03, and has a lot of useful 
 components of dockerfiles do.
 
 Resources:
-- Information on [Dockerfiles](# https://docs.docker.com/engine/reference/builder/).
+- Information on [Dockerfiles](https://docs.docker.com/engine/reference/builder/).
 
 - A [Quickstart Guide](https://docs.docker.com/get-started/)
 
